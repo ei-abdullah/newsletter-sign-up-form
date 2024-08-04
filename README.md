@@ -33,7 +33,7 @@ Users should be able to:
 
 ![Desktop-normal](./assets/screenshots/Desktop-normal.png)
 
-#### Desktop Default
+#### Desktop Fault
 
 ![Desktop-default](./assets/screenshots/Desktop-fault.png)
 
