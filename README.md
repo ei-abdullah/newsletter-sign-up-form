@@ -29,24 +29,25 @@ Users should be able to:
 
 ### Screenshots
 
-- Desktop Normal
+#### Desktop Normal
 
-  ![Desktop-normal](./assets/screenshots/Desktop-normal.png)
+![Desktop-normal](./assets/screenshots/Desktop-normal.png)
 
-- Desktop Default
+#### Desktop Default
 
-  ![Desktop-default](./assets/screenshots/Desktop-default.png)
+![Desktop-default](./assets/screenshots/Desktop-fault.png)
 
-- Desktop Success
+#### Desktop Success
 
-  ![Desktop-success](./assets/screenshots/Desktop-success.png)
+![Desktop-success](./assets/screenshots/Desktop-success.png)
 
-- Mobile Normal
+#### Mobile Normal
 
-  ![Mobile-normal](./assets/screenshots/Mobile-normal.png)
+![Mobile-normal](./assets/screenshots/Mobile-normal.png)
 
-- Mobile Success
-  ![Mobile-success](./assets/screenshots/Mobile-success.png)
+#### Mobile Success
+
+![Mobile-success](./assets/screenshots/Mobile-success.png)
 
 ### Links
 
